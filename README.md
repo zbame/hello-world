@@ -2,4 +2,4 @@
 
 Hellow world.
 
-A new repository what is my first try at githab.
+A new repository what is my first try at github.
